@@ -10,4 +10,18 @@
 # Each post should have an upvote button on the post page. Each click increases its upvotes count by one
 # Users can upvote any post for any number of times, but not downvote
 # A previously created post can be edited from its post page
-# A previously created post can be deleted from its post page
+# A previously created post can be deleted from its post page 
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZibGJtdWRpcGFrN2lhOWlkNTlrbTQxODM2NHh5bmJsc3Nvdjl4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hdV0hNGXjkor83jLaS/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
